@@ -133,3 +133,11 @@ BMW-PowerBI-Sales-Analytics/
 
 ## 🎯 Project Purpose  
 The primary goal of this project is to **demonstrate professional Business Intelligence and analytics skills**, showcasing the ability to build clean data models, develop robust DAX measures, and design executive-ready dashboards while transparently addressing data limitations.
+
+---
+
+## 📫 Contact
+**Author**: Stefano Sima  
+
+- 📧 Email: [stefano.sima@mail.polimi.it](mailto:stefano.sima@mail.polimi.it)  
+- 💼 LinkedIn: [linkedin.com/in/stesima](https://www.linkedin.com/in/stesima)  

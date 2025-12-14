@@ -75,6 +75,7 @@ Interactive what-if analysis allowing users to simulate price and volume growth 
 
 ## 📸 Sample Dashboard – Product & Model Mix
 
+![Control Chart](assets/Product_Dashboard.png)
 
 This dashboard provides a portfolio-level view of BMW’s **product and model composition**, combining sales volumes, pricing metrics, and segmentation logic in a single analytical view.
 

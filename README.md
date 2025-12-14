@@ -120,14 +120,13 @@ BMW-PowerBI-Sales-Analytics/
 ├── LICENSE # MIT License
 │
 ├── data/
-│ └── bmw_sales_kaggle.csv # Source dataset (synthetic, Kaggle)
+│ └── BMW sales data (2010-2024).csv # Source dataset (synthetic, Kaggle)
 │
 ├── powerbi/
-│ └── BMW_Sales_Analytics.pbix # Power BI dashboard file
+│ └── BMW Dashboards.pbix # Power BI dashboard file
 │
 ├── assets/
-│ └── screenshots/
-│ └── sample_dashboard_product_model_mix.png
+│ └── Product_Dashboard.png
 │ # Dashboard preview used in README
 ```
 ---

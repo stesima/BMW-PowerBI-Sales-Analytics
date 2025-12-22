@@ -126,6 +126,7 @@ BMW-PowerBI-Sales-Analytics/
 │ └── BMW Dashboards.pbix # Power BI dashboard file
 │
 ├── assets/
+│ └── Report.pdf
 │ └── Product_Dashboard.png
 │ # Dashboard preview used in README
 ```
